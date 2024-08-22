@@ -21,7 +21,6 @@ void matrixScan(FILE *in, int matrix[SIZE][SIZE], int size) {
     }
 }
 
-
 int main() {
     FILE *in = fopen("task.in", "r");
     FILE *out = fopen("task.out", "w");
